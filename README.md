@@ -44,18 +44,6 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
 
   I was introduced to the tech industry while living in Mexico in 2018. It was a learn-fast-high-pressured rollercoaster but I found that I excelled in it. I learnt a lot in a short time but the two most important things I learnt was I) I love trouble shooting and 2) I'm fascinated about tech.
 
-  #### Recent months
-  
-  For the last 6 months I have been working as a general all purpose IT troubleshooter for a number of clients in and around clients.  Notably Ive been managing the social media connection for Emu bikes, and electric bike company based in London. 
-
-  - I achieved A during my work at B (job, or otherwise)
-
-  - I contributed to the growth of X while doing Y (job, or otherwise)
-
-  - I built this, made this, broke this, fixed this, etc.
-
-  - A link to some on-line evidence (blogs, videos, articles, etc.)
-  
   </p>
   </details>
   <br>
@@ -73,7 +61,7 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
   The last 5 week of the course were spent working on group projects where we learnt the all important skills of good **Git** workflow, We also worked using the Agile cycle of development. 
 
 
-  ## Unrelated to tech:
+  ### Unrelated to tech:
 
   ### PADI Master Scuba Diver Trainer
   In the process of becoming a top qualified scuba diving instructor I had to go though the intensive Instructor Development Course (IDC) - beyond the technical knowledge required to work as a scuba instructor, you have to have people skills and take responsibility for the lives of others, you have to be cool under fire and adaptable to new environments such as the underwater world where a dash to the safety of the surface can kill.
@@ -82,8 +70,6 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
   A levels in History, History Of Art, Religious studies and Communication 
 
   11 GCSEs
-
-
 
   </p>
   </details>
@@ -152,13 +138,9 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
   <p>
   ## Hobbies
 
-  In 2018 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos upon request)
+  In 2018 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos gladly given upon request)
 
-  I recycle scrap into aquaponics gardens, the future of agriculture in dry climates
-
-
-  (Any cool stuff that makes you a super part of a software development team)
-
+  I find joy in reclying scrap materials to make home aquaponics systems (aquaculture - hydroponic combinations), and if im not doing that you can find me getting my hands dirty in the ground planting some veggie.
 
   People seek me out to join their projects. I am blessed with a wide and wonderful circle of friends and family, and I love cats but most of all I love my dog Bentley
   </p>
