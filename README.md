@@ -63,7 +63,8 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
 
   <details><summary>Education</summary>
   <p>
-  ### Makers Academy (Dec 2019 to April 2020)
+
+  ## Makers Academy (Dec 2019 to April 2020)
 
   A 16-week intensive development bootcamp. Starting with the basics of **Object Oriented Principles** we learnt **Ruby**,   Makers from day one encouraged us to use **Test Driven Development** so we became proficient using **RSpec**.  Every Afternoon at Makers we would pair program which played to my strength as a team player and taught me the valuable skill of explaining my code and thinking process to others. 
 
@@ -72,19 +73,17 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
   The last 5 week of the course were spent working on group projects where we learnt the all important skills of good **Git** workflow, We also worked using the Agile cycle of development. 
 
 
-
-    
-
-  data to current: Trouble shoot tech problems for my clients on a self employed basis
-
-    
-
-  Unrelated to tech:
+  ## Unrelated to tech:
 
   ### PADI Master Scuba Diver Trainer
   In the process of becoming a top qualified scuba diving instructor I had to go though the intensive Instructor Development Course (IDC) - beyond the technical knowledge required to work as a scuba instructor, you have to have people skills and take responsibility for the lives of others, you have to be cool under fire and adaptable to new environments such as the underwater world where a dash to the safety of the surface can kill.
 
-    
+  ## Milton Abbey 2006 - 2011
+  A levels in History, History Of Art, Religious studies and Communication 
+
+  11 GCSEs
+
+
 
   </p>
   </details>
@@ -92,25 +91,57 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
 
   <details><summary>Experience</summary>
   <p>
+
   ## Experience
 
-    
+  **Joe's Tech Support** (April 2018 to Present)
 
-  **Company Name** (start_date to end_date)
+  *General all purpose IT Support and troubleshooter*
 
-  *Your job title*
+  - A large verity of jobs in many aspecs of Tech. 
+  - Computer Network managing 
+  - Troubleshooting problems big and small
+  - Managing social media accounts
+  - Website and domain managment 
 
-  - Any experience relevent to software development
+  <br>
 
-    
+   **Baja Connect** (July 2018 to April 2019)
 
-  **Company Name** (start_date to end_date)
+  *Field Agent*
 
-  *Your job title*
+  - Learnt the trade of networking
+  - Installed, configuredand maintained point to multipoint wireless WAN networks for all variety of clients (Ubiquiti airMAX)
+  - Planned, Installed, configured and managed home and professional mesh LAN networks (Ubiquiti Unifi & Amplifi)
+  - Configured and managed standard home networks via 802.11N and 802.11AC routers (TP link, Cisco)
+  - Installed, Managed pre-sliced fiber optic hybrid systems to the home on the client side (Ubiquiti UFiber)
+  - Installed, configured and managed home security equipment. (Ubiquity UnifiVideo & Ring )
+  - Troubleshooting in all areas of the business. Client side and Server Rooms
 
-  - Any experience relevent to software development
 
-    
+
+  <br>
+
+  **Batu Batu Resort** (Jan 2016 - Nov 2016)
+
+  *Head of Dive and Activity Department*
+
+  - Managed a team of 6 and a budget of £150,000
+  - Responible for all Water related Activites and saftey of a private island 
+  - Most qualifitied lifesaver and first Aider on a remote island
+  - Responisible for the upkeep of the three island Speedboats
+  - Maintained a full working dive shop include equipment, tanks and high maintence Compressor
+
+
+  <br>
+
+  **PADI SCUBA Instructor** (2014 - 2016)
+
+  *Master Scuba Diver Trainer (MSDT)*
+
+  - Learnt to work in ofter high pressure situations. 
+  - Managing nervous people in often potenially dangers situations
+  - Worked in high end resorts such as The Four Seasons Maldives
 
 
   </p>
@@ -119,19 +150,17 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
 
 <details><summary>Hobbies</summary>
   <p>
-    ## Hobbies
+  ## Hobbies
 
-    In 2018 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos upon request)
+  In 2018 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos upon request)
 
-    I recycle scrap into aquaponics gardens, the future of agriculture in dry climates
+  I recycle scrap into aquaponics gardens, the future of agriculture in dry climates
 
-      
 
-    (Any cool stuff that makes you a super part of a software development team)
+  (Any cool stuff that makes you a super part of a software development team)
 
-      
 
-    People seek me out to join their projects. I am blessed with a wide and wonderful circle of friends and family, and I love cats but most of all I love my dog Bentley
+  People seek me out to join their projects. I am blessed with a wide and wonderful circle of friends and family, and I love cats but most of all I love my dog Bentley
   </p>
 </details>
 <br>
