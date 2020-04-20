@@ -16,9 +16,10 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
  
  |Project Name               |Overview                           |Tech Stack   |Tech Stack                       |
  |----------------|-------------------------------|-----------------------------|-----------------------------|
- |WePick      |A fun movie matching app to help you choose a movie between you and our friend. Our Final group project at Makers   |Ruby on Rails,, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | [https://github.com/jasylwong/wepick](https://github.com/jasylwong/wepick)          
+ |WePick      |A fun movie matching app to help you choose a movie between you and our friend. Our Final group project at Makers   |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | [https://github.com/jasylwong/wepick](https://github.com/jasylwong/wepick)          
  |WePick2          |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.          |React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS           | |
  |AceBook          |A simple social networking site users can make posts, upload images and interact with other uses.  |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL| [https://github.com/Peter2-71828/aceBook-PingPong](https://github.com/Peter2-71828/aceBook-PingPong) |
+ |MakersBnB   | A simple replica of AirBnB. Users can sign up, list properties, view other properties and make bookings. This was our first group project done over 1 week.|Ruby, Sinatra, CSS, HTML, RSpec, Capybara and PSQL| https://github.com/Peter2-71828/MakersBNB |
  
  </p>
 </details>
@@ -51,14 +52,58 @@ I'm passionate about all things Tech. I spent the last 7 years living and workin
  
  ### Makers Academy (Dec 2019 to April 2020)
  
- A 16-week intensive development bootcamp. Starting with the basics of **Object Oriented Principles** we learnt **Ruby**,   Makers from day one encouraged us to use **Test Driven Development** so we became proficient using **RSpec**.  Every Afternoon at Makers we would pair program which played to my strength as a team player and taught me the valuable skill of explaining my code and thinking process to others.
- 
- We began by building simple web apps and began incorporating databases using **PSQL** at first and later **ORMs**. During the middle section of the course we started to learn **JavaScript** which while was challenging I enjoyed greatly.  As TTD was our way we leant **Jasmine** and even built our own testing framework.
- 
- The last 5 week of the course were spent working on group projects where we learnt the all important skills of good **Git** workflow, We also worked using the Agile cycle of development.
- 
- 
- ### Unrelated to tech:
+Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
+
+#### Core course topics:
+Object Oriented Design (OOP) best practices, 
+Test Driven Development (TDD), 
+writing clean code, 
+Pair Programming , 
+Agile development as well as core principles such as dependency injection, single responsibility, 
+cohesion and encapsulation, 
+
+#### Languages and Frameworks:
+
+##### Languages 
+- Ruby 
+- JavaScript 
+- HTML / CSS (Including CSS FlexBox & CSS Grid)
+
+##### Frameworks  
+- React Native 
+- Node.JS 
+- Ruby on Rails 
+- Sinatra
+
+##### Testing Suites
+-  RSpec (Ruby)
+- Capybara (Ruby / JavaScript)
+- Jasmine (JavaScript)
+- Jest (JavaScript)
+- Enzyme (React)
+
+##### Git Workflow
+- Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts
+
+##### Databases 
+- PostgreSQL 
+- SQLite 
+
+##### Deployment
+Continues deployment of the master and development branches using Heroku. 
+
+##### Working Methodology 
+- Agile software development including:
+    - XP values
+    - Sprint planning
+    - Pair programming
+    - Breaking down the program into user stories
+    - Breaking down the user stories further into tickets
+    - Daily stand-ups and retrospectives to iteratively improve processes and code
+    - Technologies learnt; 
  
  ### PADI Master Scuba Diver Trainer
  In the process of becoming a top qualified scuba diving instructor I had to go though the intensive Instructor Development Course (IDC) - beyond the technical knowledge required to work as a scuba instructor, you have to have people skills and take responsibility for the lives of others, you have to be cool under fire and adaptable to new environments such as the underwater world where a dash to the safety of the surface can kill.
