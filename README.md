@@ -5,7 +5,7 @@
  
 # Joe Ellingworth
  
-I am a full stack developer in training, recently graduated from Makers Academy where I spent the last 16 weeks learning hard and fast about the fascinating world of code.
+An energetic, resourceful team player, recently graduated from Makers Academy where I spent 16 weeks learning hard and fast about the fascinating world of code while becoming a full stack developer.
  
 I'm passionate about all things Tech. I spent the last 7 years living and working overseas, in several different countries, including as a scuba dive instructor in Thailand and The Maldives, and as a manager of the watersports department of a high end tourist resort in Malaysia. Looking for something more settled I moved to Mexico where I worked as a Computer Network Technician, and that is where I got bitten by the tech bug. I returned to the UK and spent the last 9 months teaching myself to code before applying to Makers, while earning money troubleshooting others’ tech problems.
  
