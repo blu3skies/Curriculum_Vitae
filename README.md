@@ -18,7 +18,7 @@ Who am I? Let me tell you my story. Well, university wasnt for me. Instead I nee
 <p>
 
 | Project Name        |Overview           |Tech Stack      |
-|:-----------:|-------------------------------|-----------------------------|
+|:-----------:|:-------------------------------:|:-----------------------------:|
 |<a href="https://github.com/jasylwong/wepick"> <img width="1604" alt="WePick" src="images/wepick.png" height="222" width="258"> </a>  [WePick](https://github.com/jasylwong/wepick) | An app that solves the age old problem of  agreeing which movie you and your mate both want to watch. Our Final group project at Makers and incorporating multiple APIs            |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL  |
 |WePick2        |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.            |       React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS| 
 |<a href="https://github.com/Peter2-71828/aceBook-PingPong"> <img width="1604" alt="Acebook" src="images/Acebook.png" height="222" width="258"> </a>  [Acebook](https://github.com/Peter2-71828/aceBook-PingPong)         |A simple social networking site where users can upload posts and images and interact with other users.| Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | https://github.com/Peter2-71828/aceBook-PingPong |
