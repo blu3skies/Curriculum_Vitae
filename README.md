@@ -2,6 +2,12 @@
  <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:joeellingworth@gmail.com">Joe Ellingworth</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
 
+<p align="center">
+<a href="https://github.com/blu3skies">
+<img src="images/github1.png" alt="github" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/joe-ellingworth-b962b014b/">
+<img src="images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
 # Joe Ellingworth
 I graduated from Makers Academy in April 2020 where I spent the 16 weeks learning hard and fast about the fascinating world of code while becoming a full stack developer. I'm passionate about all things tech. 
  
