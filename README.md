@@ -2,13 +2,19 @@
  <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:joeellingworth@gmail.com">Joe Ellingworth</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
 
+
 <p align="center">
+<a href="https://www.linkedin.com/in/joe-ellingworth-b962b014b/">
+<img src="images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42">
+<a href="https://www.codewars.com/users/blu3skies">
+<img src="images/codewars.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://github.com/blu3skies">
 <img src="images/github1.png" alt="github" hspace="50" height="42" width="42"></a>
-<a href="https://www.linkedin.com/in/joe-ellingworth-b962b014b/">
-<img src="images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+</a></p>
 
-# Joe Ellingworth
+<center> <h1>Joe Ellingworth </h1> </center>
+
+
 I graduated from Makers Academy in April 2020 where I spent the 16 weeks learning hard and fast about the fascinating world of code while becoming a full stack developer. I'm passionate about all things tech. 
  
 Who am I? Let me tell you my story. Well, university wasnt for me. Instead I needed to get out and grab the world. Starting in marketing in Mumbai, India, I progressed and developed myself while working in many extraordinary places. I eventually became the manager of a department in Batu Batu, the renowned high end tourist resort in Malaysia. On my way there I qualified as a scuba dive instructor and taught in Thailand, The Maldives, Costa Rica and Japan. 
@@ -22,7 +28,7 @@ Looking for something more settled I moved to Mexico and that is where I got bit
 | Project Name        |Overview           |Tech Stack      |
 |:-----------:|:-------------------------------:|:-----------------------------:|
 |<a href="https://github.com/jasylwong/wepick"> <img width="1604" alt="WePick" src="images/wepick.png" height="222" width="258"> </a>  [WePick](https://github.com/jasylwong/wepick) | An app that solves the age old problem of  agreeing which movie you and your mate both want to watch. Our Final group project at Makers and incorporating multiple APIs            |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL  |
-|WePick2        |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.            |       React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS| 
+|<a href="https://github.com/jlblumberg/wepick-2"> <img width="1604" alt="Acebook"  height="222" width="258"> </a>  [WePick 2](https://github.com/jlblumberg/wepick-2) |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.            |       React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS| 
 |<a href="https://github.com/Peter2-71828/aceBook-PingPong"> <img width="1604" alt="Acebook" src="images/Acebook.png" height="222" width="258"> </a>  [Acebook](https://github.com/Peter2-71828/aceBook-PingPong)         |A simple social networking site where users can upload posts and images and interact with other users.| Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | https://github.com/Peter2-71828/aceBook-PingPong |
 |<a href="https://github.com/Peter2-71828/MakersBNB"> <img width="1604" alt="MakersBNB" src="images/MakersBnB.png" height="222" width="258"> </a>  [MakersBNB](https://github.com/Peter2-71828/MakersBNB)   | A simple replica of AirBnB. Users can sign up, list properties, view other properties and make bookings. This was our first Makers group project.|Ruby, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | https://github.com/Peter2-71828/MakersBNB |
 
