@@ -21,21 +21,23 @@ Who am I? Let me tell you my story. Well, university wasnt for me. Instead I nee
 
 Looking for something more settled I moved to Mexico and that is where I got bitten by the tech bug while working as a Computer Network Technician. I can't believe it took me that long! I returned to the UK last year to refocus my career on software development. Whilst waiting for entry onto the Makers Academy, I taught myself to code while troubleshooting others’ tech problems to earn my living. I confidently tell you my story because it demonstrates I have energy, tenacity, resilience, courage, independence and yet I can adapt easily and work best in teams whilst being a natural leader, or follower, as required.
 
+<br>
 **Please expand the drop downs below by clicking on them**
-<details><summary>Projects</summary>
+<br>
+<details><summary><big>Projects</big></summary>
 <p>
 
 | Project Name        |Overview           |Tech Stack      |
 |:-----------:|:-------------------------------:|:-----------------------------:|
-|<a href="https://github.com/jasylwong/wepick"> <img width="1604" alt="WePick" src="images/wepick.png" height="222" width="258"> </a>  [WePick](https://github.com/jasylwong/wepick) | An app that solves the age old problem of  agreeing which movie you and your mate both want to watch. Our Final group project at Makers and incorporating multiple APIs            |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL  |
-|<a href="https://github.com/jlblumberg/wepick-2"> <img width="1604"   height="222" width="258"> </a>  [WePick 2](https://github.com/jlblumberg/wepick-2) |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.            |       React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS| 
+|<a href="https://github.com/jasylwong/wepick"> <img width="1604" alt="WePick" src="images/wepick.png" height="222" width="200px"> </a>  [WePick](https://github.com/jasylwong/wepick) | An app that solves the age old problem of  agreeing which movie you and your mate both want to watch. Our Final group project at Makers and incorporating multiple APIs            |Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL  |
+|<a href="https://github.com/jlblumberg/wepick-2"> <img width="1604"   height="222" width="22"> </a>  [WePick 2](https://github.com/jlblumberg/wepick-2) |A redesign of our original WePick App. Focusing on expanding the concept with new features and new tech stack.            |       React Native, Javascript, NodeJs, Jasmine, Jest, HTML, CSS| 
 |<a href="https://github.com/Peter2-71828/aceBook-PingPong"> <img width="1604" alt="Acebook" src="images/Acebook.png" height="222" width="258"> </a>  [Acebook](https://github.com/Peter2-71828/aceBook-PingPong)         |A simple social networking site where users can upload posts and images and interact with other users.| Ruby on Rails, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | https://github.com/Peter2-71828/aceBook-PingPong |
 |<a href="https://github.com/Peter2-71828/MakersBNB"> <img width="1604" alt="MakersBNB" src="images/MakersBnB.png" height="222" width="258"> </a>  [MakersBNB](https://github.com/Peter2-71828/MakersBNB)   | A simple replica of AirBnB. Users can sign up, list properties, view other properties and make bookings. This was our first Makers group project.|Ruby, Sinatra, CSS, HTML, RSpec, Capybara and PSQL | https://github.com/Peter2-71828/MakersBNB |
 
 </p>
 </details>
 <br>
-<details><summary>Skills</summary>
+<details><summary><big>Skills</big></summary>
 <p>
 I am a fast learning logical thinker and resourceful team player. I am known as someone who rolls up my sleeves and gets stuck in. I am quietly confident and well rounded. I fall back on the life skills I honed around the world in a variety of roles and settings. Above all I am passionate about coding and problem solving.
 
@@ -51,7 +53,7 @@ I was introduced to the tech industry while living in Mexico. I became a Compute
 </p>
 </details>
 <br>
-<details><summary>Education</summary>
+<details><summary><big>Education</big></summary>
 <p>
 
 ## Makers Academy (Dec 2019 to April 2020)
@@ -115,7 +117,7 @@ A levels: History, History Of Art, Religious studies and Communication Studies
 </p>
 </details>
 <br>
-<details><summary>Experiences</summary>
+<details><summary><big>Experiences</big></summary>
 <p>
 
 **Joe's Tech Support** (April 2018 to Present)
@@ -159,7 +161,7 @@ A large variety of jobs in many aspects of tech eg:
 </p>
 </details>
 <br>
-<details><summary>Hobbies</summary>
+<details><summary><big>Hobbies</big></summary>
 <p>
 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos proudly supplied upon request)
 Recycling scrap materials to make home aquaponics systems (aquaculture - hydroponic combinations), an innovative water and energy efficient method of growing food in  and if i'm not doing that you can find me getting my hands dirty in the ground planting some veggies.
