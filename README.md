@@ -164,8 +164,11 @@ A large variety of jobs in many aspects of tech eg:
 <details><summary><big>Hobbies</big></summary>
 <p>
 I renovated my dilapidated 1969 Airstream land yacht trailer, a steep learning curve demonstrating resourcefulness, resilience and patience but not much aptitude. (Photos proudly supplied upon request)
+
 Recycling scrap materials to make home aquaponics systems (aquaculture - hydroponic combinations), an innovative water and energy efficient method of growing food in  and if i'm not doing that you can find me getting my hands dirty in the ground planting some veggies.
-People seek me out to join their projects. I am blessed with a wide and wonderful circle of friends and family, and I love cats but most of all I love my dog Bentley
+
+People seek me out to join their projects. I am blessed with a wide and wonderful circle of friends and family, and I love cats but most of all I love my dog Bentley.
+
 </p>
 </details>
 <br>
