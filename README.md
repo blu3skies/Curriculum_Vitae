@@ -21,7 +21,6 @@ Who am I? Let me tell you my story. Well, university wasnt for me. Instead I nee
 
 Looking for something more settled I moved to Mexico and that is where I got bitten by the tech bug while working as a Computer Network Technician. I can't believe it took me that long! I returned to the UK last year to refocus my career on software development. Whilst waiting for entry onto the Makers Academy, I taught myself to code while troubleshooting others’ tech problems to earn my living. I confidently tell you my story because it demonstrates I have energy, tenacity, resilience, courage, independence and yet I can adapt easily and work best in teams whilst being a natural leader, or follower, as required.
 
-<br>
 **Please expand the drop downs below by clicking on them**
 <br>
 <details><summary><big>Projects</big></summary>
