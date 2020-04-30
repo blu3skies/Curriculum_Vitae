@@ -13,13 +13,11 @@
 </a></p>
 
 <center> <h1>Joe Ellingworth </h1> </center>
+I'm passionate about all things tech. I graduated from Makers Academy in April 2020, a 16 week learning course where we learnt hard and fast about the fascinating world of code while becoming a full stack developer.
 
+University wasn’t for me. Instead I needed to get out and grab the world. Starting in marketing in Mumbai, India, I progressed and developed myself while working as a Master Scuba Dive Instructor in Thailand, The Maldives, Costa Rica and Japan. Becoming responsible for the lives of others in high risk activities was a steep and scary learning curve I will always be grateful for. I eventually became the Manager of the Dive and Watersports Department for Batu Batu, the renowned high end tourist resort on a private island in Malaysia.
 
-I graduated from Makers Academy in April 2020 where I spent the 16 weeks learning hard and fast about the fascinating world of code while becoming a full stack developer. I'm passionate about all things tech. 
- 
-Who am I? Let me tell you my story. Well, university wasnt for me. Instead I needed to get out and grab the world. Starting in marketing in Mumbai, India, I progressed and developed myself while working in many extraordinary places. I eventually became the manager of a department in Batu Batu, the renowned high end tourist resort in Malaysia. On my way there I qualified as a scuba dive instructor and taught in Thailand, The Maldives, Costa Rica and Japan. 
-
-Looking for something more settled I moved to Mexico and that is where I got bitten by the tech bug while working as a Computer Network Technician. I can't believe it took me that long! I returned to the UK last year to refocus my career on software development. Whilst waiting for entry onto the Makers Academy, I taught myself to code while troubleshooting others’ tech problems to earn my living. I confidently tell you my story because it demonstrates I have energy, tenacity, resilience, courage, independence and yet I can adapt easily and work best in teams whilst being a natural leader, or follower, as required.
+Looking for something more settled I moved to Mexico and trained as a Computer Network Technician - and that is where I got bitten by the tech bug. I can't believe it took me that long! Having progressed as far as I could in Mexico, I returned to the UK last year to further my career in software development. Whilst waiting for entry onto the Makers Academy, I continued to teach myself to code while earning my living by troubleshooting other people’s’ tech problems. My story demonstrated I am a self starter who has independence, tenacity, resilience, and courage and yet I can adapt to new roles easily. I work well in teams whilst being a natural leader, or follower, as required.
 
 **Please expand the drop downs below by clicking on them**
 <br>
@@ -119,7 +117,7 @@ A levels: History, History Of Art, Religious studies and Communication Studies
 <details><summary><big>Experiences</big></summary>
 <p>
 
-**Joe's Tech Support** (April 2018 to Present)
+**Joe's Tech Support** (April 2019 to Present)
 
 *Self employed general all purpose IT support and  troubleshooter*
 A large variety of jobs in many aspects of tech eg:
