@@ -11,7 +11,6 @@
 <a href="https://github.com/blu3skies">
 <img src="images/github1.png" alt="github" hspace="50" height="42" width="42"></a>
 </a></p>
-
 <center> <h1>Joe Ellingworth </h1> </center>
 I'm passionate about all things tech. I graduated from Makers Academy in April 2020, a 16 week learning course where we learnt hard and fast about the fascinating world of code while becoming a full stack developer.
 
